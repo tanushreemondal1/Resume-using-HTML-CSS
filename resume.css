@@ -1,0 +1,75 @@
+.heading{
+    text-decoration: underline;
+    font-size: 20px;
+    color: black;
+    text-align: center;
+}
+.name{
+     font-size: 16px;
+     color: black;
+
+  }
+.body{
+    border: 5px double black;
+    padding: 10px;
+    background-color: aliceblue;
+}
+.contact-details{
+    font-size: 15px;
+    margin-left:7px;
+    width: 400px;
+    padding-bottom: 10px;
+}
+.image{
+    margin-left: 176px;
+    position: absolute;
+}
+
+.my-image{
+    height: 111px;
+    width: 110px;
+}
+.career-objective{
+    padding: 0px 0px 10px 5px;
+}
+
+.career-objective-heading{
+    font-size: 14px;
+}
+
+.career-objective-description{
+    font-size: 15px;
+}
+
+.technical-qualification{
+    padding: 0px 0px 10px 5px;
+}
+
+.technical-qualification-heading, .academic-qualification-header,
+ .technical-skils-header, .personal-skills-header, .personal-details-header, .declaration-header{
+    padding-bottom: 10px;
+}
+
+.technical-skils, .academic-qualification, 
+.technical-skils, .personal-skills, .personal-details, .declaration{
+    padding: 0px 0px 10px 5px;
+}
+.education-table{
+    text-align: center;
+    max-width: 84%;
+}
+.school-table{
+    text-align: center;
+    width: 84%;
+}
+.container {  
+    padding-left: 15px;
+    margin-left: auto;
+}
+.new-class{
+border: 1px gray solid;
+min-height: 80px !important;
+}
+.header-class{
+    min-height: 30px !important;
+}
